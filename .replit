@@ -1,0 +1,2 @@
+run = "npm ci && node index.js"
+onBoot = "npm ci && node index.js"

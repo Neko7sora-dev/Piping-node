@@ -1,0 +1,16 @@
+{
+  "name": "piping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "piping-server": "^1.6.0"
+  }
+}
