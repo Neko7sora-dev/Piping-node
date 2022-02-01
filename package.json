@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "log4js": "^6.3.0",
-    "piping-server": "^1.6.0"
+    "log4js": "^6.4.1",
+    "piping-server": "^1.11.0"
   }
 }
